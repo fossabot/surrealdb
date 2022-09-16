@@ -13,6 +13,7 @@
     <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
         <img width="300" src="/img/black/logo.svg" alt="SurrealDB Logo">
     </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Fsurrealdb?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Fsurrealdb.svg?type=shield"/></a>
 </p>
 
 <h3 align="center">
@@ -206,6 +207,9 @@ docker pull surrealdb/surrealdb:latest
 <h2><img height="20" src="/img/gettingstarted.svg">&nbsp;&nbsp;Getting started</h2>
 
 Getting started with SurrealDB is as easy as starting up the SurrealDB database server, choosing your platform, and integrating its SDK into your code. You can easily get started with your platform of choice by reading one of our tutorials.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Fsurrealdb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Fsurrealdb?ref=badge_large)
 
 ##### Client side apps
 
